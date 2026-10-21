@@ -1,9 +1,15 @@
-# Fly Or Not - Privacy Policy
+# Fly Fly (Fly Or Not) - Privacy Policy
 
-This repository hosts the official Privacy Policy for the Android game **Fly Or Not** (`com.mouse.flynot`) published on Google Play.
+This repository hosts the official Privacy Policy for the Android game **Fly Fly** (in-app title: **Fly Or Not**, package name: `com.mouse.flynot`) published on Google Play by **Green Mouse**.
 
-## Privacy Policy URL
-The policy is available online via GitHub Pages:
+## Identifiers
+- **App Name (Google Play):** Fly Fly
+- **Alternative / In-App Title:** Fly Or Not
+- **Package Name:** `com.mouse.flynot`
+- **Developer / Publisher:** Green Mouse
+- **Developer Contact:** damir.ziher@gmail.com
+
+## Privacy Policy URLs
 - **https://dziher11.github.io/FlyFly/**
 - **https://dziher11.github.io/FlyFly/privacy-policy.html**
 
@@ -14,5 +20,5 @@ The policy is available online via GitHub Pages:
 - **Family Friendly**: Fully compliant with COPPA, GDPR, and Google Play Families Policy.
 
 ## Contact
-- **Developer**: Damir Žiher (dziher11)
-- **Email**: dziher@infodom.hr
+- **Developer**: Green Mouse (Damir Žiher)
+- **Email**: damir.ziher@gmail.com
